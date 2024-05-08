@@ -1,5 +1,5 @@
-# EX01:Implementation of Univariate Linear Regression
-## Date:03/03/2024
+# EX01 : Implementation of Univariate Linear Regression
+## Date: 
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -75,7 +75,7 @@ plt.show()
 
 ## Output:
 
-![alt text](<Screenshot 2024-03-22 205436.png>)
+![alt text](image.png)
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
